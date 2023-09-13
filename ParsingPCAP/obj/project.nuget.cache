@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XjYh0Cd481QlpuqsYiK6tEaRsYnhvOMiughCAZv1It5XzjQi3p36HunxTH6XCHLGfkcI+W0RzZeWT7bcLpswxQ==",
+  "success": true,
+  "projectFilePath": "E:\\CodingFiles\\SaskExercise\\ParsingPCAP\\ParsingPCAP\\ParsingPCAP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faiya\\.nuget\\packages\\packetdotnet\\1.4.6\\packetdotnet.1.4.6.nupkg.sha512",
+    "C:\\Users\\faiya\\.nuget\\packages\\sharppcap\\6.2.5\\sharppcap.6.2.5.nupkg.sha512",
+    "C:\\Users\\faiya\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\faiya\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\faiya\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
